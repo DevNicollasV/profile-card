@@ -86,3 +86,7 @@ a {
 a:hover {
     background-color: var(--Green);
 }
+
+a:visited {
+    background-color: blueviolet;
+}
